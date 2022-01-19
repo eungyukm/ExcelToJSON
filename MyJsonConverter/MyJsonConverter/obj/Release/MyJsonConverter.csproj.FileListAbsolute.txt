@@ -1,0 +1,12 @@
+C:\Users\frontis\Desktop\MyJsonConverter (2)\MyJsonConverter\bin\Release\MyJsonConverter.exe.config
+C:\Users\frontis\Desktop\MyJsonConverter (2)\MyJsonConverter\bin\Release\MyJsonConverter.exe
+C:\Users\frontis\Desktop\MyJsonConverter (2)\MyJsonConverter\bin\Release\MyJsonConverter.pdb
+C:\Users\frontis\Desktop\MyJsonConverter (2)\MyJsonConverter\bin\Release\Newtonsoft.Json.dll
+C:\Users\frontis\Desktop\MyJsonConverter (2)\MyJsonConverter\bin\Release\Newtonsoft.Json.xml
+C:\Users\frontis\Desktop\MyJsonConverter (2)\MyJsonConverter\obj\Release\MyJsonConverter.MainForm.resources
+C:\Users\frontis\Desktop\MyJsonConverter (2)\MyJsonConverter\obj\Release\MyJsonConverter.Properties.Resources.resources
+C:\Users\frontis\Desktop\MyJsonConverter (2)\MyJsonConverter\obj\Release\MyJsonConverter.csproj.GenerateResource.cache
+C:\Users\frontis\Desktop\MyJsonConverter (2)\MyJsonConverter\obj\Release\MyJsonConverter.csproj.CoreCompileInputs.cache
+C:\Users\frontis\Desktop\MyJsonConverter (2)\MyJsonConverter\obj\Release\MyJsonConverter.csproj.CopyComplete
+C:\Users\frontis\Desktop\MyJsonConverter (2)\MyJsonConverter\obj\Release\MyJsonConverter.exe
+C:\Users\frontis\Desktop\MyJsonConverter (2)\MyJsonConverter\obj\Release\MyJsonConverter.pdb
